@@ -134,19 +134,19 @@ main {
     width: 100%;
 }
 
-.botão_html div {
+.botao_html div {
     background: var(--bg-html);
 }
  
-.botão_css div {
+.botao_css div {
     background: var(--bg-css);
 }
 
-.botão_javascript div {
+.botao_javascript div {
     background: var(--bg-javascript);
 }
 
-.botão_acessibilidade div {
+.botao_acessibilidade div {
     background: var(--bg-acessibilidade);
 }
 
